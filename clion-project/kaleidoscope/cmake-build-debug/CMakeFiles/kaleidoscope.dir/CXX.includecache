@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tuhaoxin/github/kaleidoscope-tutorial/clion-project/kaleidoscope/chapter2-Implementing-a-Parser-and-AST.cpp
+llvm/ADT/STLExtras.h
+/Users/tuhaoxin/github/kaleidoscope-tutorial/clion-project/kaleidoscope/llvm/ADT/STLExtras.h
+algorithm
+-
+cctype
+-
+cstdio
+-
+cstdlib
+-
+map
+-
+memory
+-
+string
+-
+vector
+-
+

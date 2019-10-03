@@ -1,0 +1,3 @@
+/Users/tuhaoxin/github/kaleidoscope-tutorial/clion-project/kaleidoscope/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tuhaoxin/github/kaleidoscope-tutorial/clion-project/kaleidoscope/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tuhaoxin/github/kaleidoscope-tutorial/clion-project/kaleidoscope/cmake-build-debug/CMakeFiles/kaleidoscope.dir
