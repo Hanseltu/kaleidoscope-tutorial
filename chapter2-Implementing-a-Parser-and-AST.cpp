@@ -85,7 +85,6 @@ static int gettok() {
 //===----------------------------------------------------------------------===//
 
 namespace {
-    using namespace llvm;
 
 /// ExprAST - Base class for all expression nodes.
 class ExprAST {
