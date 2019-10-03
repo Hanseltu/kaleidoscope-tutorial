@@ -17,4 +17,10 @@ My First Language Frontend with LLVM Tutorial in Chinese
 
 [Kaleidoscope系列第六章：扩展语言—用户自定义运算符](https://www.tuhaoxin.cn/articles/2019/10/02/1570020144718.html)
 
+[Kaleidoscope系列第七章：扩展语言—可变变量](https://www.tuhaoxin.cn/articles/2019/10/02/1570022848571.html)
 
+[Kaleidoscope系列第八章：编译为目标文件](https://www.tuhaoxin.cn/articles/2019/10/03/1570032470366.html)
+
+[Kaleidoscope系列第九章：增加调试信息](https://www.tuhaoxin.cn/articles/2019/10/03/1570032703820.html)
+
+[Kaleidoscope系列第十章：总结和其他技巧](https://www.tuhaoxin.cn/articles/2019/10/03/1570032839645.html)
